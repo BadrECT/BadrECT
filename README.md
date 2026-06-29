@@ -1,6 +1,75 @@
-# 💫 About Me:
-# Badr kaanoune<br><br> Développeur Fullstack / Cybersécurité <br><br>Développeur passionné par la création de solutions innovantes et l'exploration des technologies émergentes. Je m'intéresse particulièrement au développement full stack, à la data science et à l'intelligence artificielle.<br><br> 🚀 Compétences Techniques<br><br>**Frontend:**<br>- HTML5, CSS3, JavaScript (ES6+)<br>- React.js, - Bootstrap, Tailwind CSS<br><br>**Backend:**<br>- Node.js, Express.js<br>- Python, Django, Flask<br>- PHP, Laravel<br>- Bases de données SQL/NoSQL<br><br>**Data Science & IA:**<br>- Python (Pandas, NumPy, Scikit-learn)<br>- Machine Learning<br>- Analyse de données<br>- Visualisation (Matplotlib, Seaborn)<br><br>**Outils & DevOps:**<br>- Git, GitHub<br>- Docker<br>- Linux<br>- APIs REST<br><br><br>📫 Connectez avec moi<br>badrkaanoune005@gmail.com<br><br>---<br><br> 📌 À propos de moi<br><br>- 🤝 Je cherche à collaborer sur : Des projets innovants en web development et data science<br>- 🆘 Je cherche de l'aide avec : cybersecurity<br>- 🌱 J'apprends actuellement : cybersecurity<br>- 💬 Demandez-moi à propos de : Développement web, data science, conseils en programmation<br>- ⚡ Fait intéressant : cybersecurity<br>🎯 Objectifs<br><br>Actuellement à la recherche d'opportunités pour contribuer à des projets stimulants où je pourrais appliquer mes compétences en développement et continuer à apprendre et grandir professionnellement.<br><br>---<br><br>⭐ *N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration !*
+# 💫 Badr Kaanoune
 
+### 🛡️ Étudiant en Cybersécurité & GRC | 👨‍💻 Développeur Full-Stack
+
+Étudiant en 3ème année **Informatique et Réseaux (3IIR)** à l'EMSI Casablanca, en transition du développement full-stack vers la **cybersécurité et la Gouvernance, Risque & Conformité (GRC)**. Stage en cybersécurité confirmé à **BCP (Banque Centrale Populaire)** — entité Support Télécom & Sécurité SI — pour l'été 2026.
+
+Je construis mes compétences à la croisée de deux mondes : un socle solide en développement (full-stack, bases de données, architecture logicielle) et une spécialisation croissante en sécurité applicative et gouvernance des risques.
+
+---
+
+## 🚀 Compétences Techniques
+
+**🛡️ Cybersécurité & GRC**
+- Audit de sécurité : scan de ports réseau, analyse de robustesse de mots de passe, détection de fuites (k-anonymity / Have I Been Pwned)
+- Sécurité applicative : authentification par rôles (RBAC), JWT, hachage (Bcrypt), chiffrement de données sensibles (Fernet)
+- Fondamentaux GRC : en cours de préparation — Google Cybersecurity Certificate (Coursera), feuille de route Security+ → ISO 27001 → CISA
+
+**🔧 Backend**
+- Python : Django, Flask
+- Java : Spring Boot (architecture en couches, JWT, WebSocket/STOMP)
+- Node.js, Express.js
+- PHP : Laravel, Symfony
+- Bases de données : MySQL, PostgreSQL, SQL/NoSQL
+
+**🎨 Frontend**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Bootstrap, Tailwind CSS
+
+**📊 Data Science & IA**
+- Python (Pandas, NumPy, Scikit-learn)
+- Machine Learning : régression linéaire, K-Means, Random Forest, ARIMA, réseaux de neurones, validation croisée
+- Visualisation : Matplotlib, Seaborn
+
+**⚙️ Outils & DevOps**
+- Git, GitHub
+- Docker, Linux
+- APIs REST, WebSockets
+
+---
+
+## 📌 Projets Récents
+
+- 🛡️ **[CyberSec Dashboard](https://github.com/BadrECT/CYBERSEC-DASHBOARD)** — Outil de cybersécurité tout-en-un : scanner de ports multi-threadé, audit de mots de passe avec score de complexité et vérification de fuites de données. *Python, Flask*
+
+- 🏥 **[Clinique Projet](https://github.com/BadrECT/Clinique_Project)** — Plateforme de gestion clinique avec contrôle d'accès par rôles, chiffrement des données médicales sensibles et scoring de risque automatisé. *Flask, Flask-Login, Flask-Bcrypt*
+
+- 🎫 **[GoTickets](https://github.com/BadrECT/Syst-me-de-Gestion-de-Tickets-Support-Client-)** — Système de gestion de tickets support client avec rôles (Admin/Agent/Client), suivi de SLA et notifications. *Django, React, MySQL*
+
+- 🍰 **Cake Design Academy** — Plateforme e-learning complète : streaming vidéo, paiements, quiz, certificats, messagerie temps réel et communauté. *Spring Boot 3, React 19, PostgreSQL, WebSocket/STOMP*
+
+- ✅ **[StarNet](https://github.com/BadrECT/Web_App_Paython)** — Gestionnaire de tâches et projets avec suivi de cycle de vie, permissions par rôle et traitement asynchrone. *Django, Celery, Redis*
+
+- 💧 **[Gestion Eau Potable](https://github.com/BadrECT/APPLICATION_DE_GESTION_D-EAU_POTABLE)** — Solution de digitalisation pour une association : abonnés, relevés de compteurs, facturation et rapports financiers. *PHP, MySQL, Chart.js*
+
+---
+
+## 🎯 Objectifs
+
+- 🎓 Stage cybersécurité chez **BCP** (Support Télécom & Sécurité SI) — été 2026
+- 📜 Feuille de route certifications : **CompTIA Security+** (4ème année) → **ISO 27001** (post-diplôme) → **CISA** (avec expérience)
+- 🌱 En apprentissage actif : **Google Cybersecurity Certificate** (module Assets, Threats & Vulnerabilities)
+- 🤝 Ouvert à toute collaboration sur des projets liés à la sécurité applicative, au GRC ou au développement full-stack
+
+---
+
+## 📫 Me Contacter
+
+📧 badrkaanoune005@gmail.com
+
+---
+
+⭐ *N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration !*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/el_badrrrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badr-kaanoune-134187296) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:badrkaanoune005@gmail.com) 
